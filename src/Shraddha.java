@@ -5,6 +5,8 @@ public class Shraddha {
 	
 		// TODO Auto-generated method stub
 System.out.println("Shraddha");
+System.out.println("Shraaddha");
+System.out.println("Anish");
 	}
 
 }
